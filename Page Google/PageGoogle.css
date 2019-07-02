@@ -1,0 +1,71 @@
+.header
+{
+  height: 50px;
+  text-align: right;
+}
+
+a
+{
+  color: black;
+
+}
+
+.middle
+{
+
+  height: 140px;
+}
+
+.logo
+{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.barre
+{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100px;
+
+}
+
+#recherche
+{
+  height:40px;
+  width: 570px;
+  border-radius: 50px;
+  font-size: 15px;
+  text-align: center;
+  border: 2px #F2F2F2 solid;
+
+}
+
+.bouton
+{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 110px;
+  
+}
+
+.bas1
+{
+  height: 40px;
+  background: #F2F2F2;
+  border: 2px #E4E4E4 solid;
+
+}
+
+.bas2
+{
+  height: 40px;
+  background: #F2F2F2;
+  border-left: 2px #E4E4E4 solid;
+  border-right: 2px #E4E4E4 solid;
+  border-bottom: 2px #E4E4E4 solid;
+
+}
